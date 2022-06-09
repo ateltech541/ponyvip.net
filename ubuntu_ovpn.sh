@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='64.20.50.170';
-USER='fenitunn_fenit';
-PASS='@@@@Atel123456';
-DBNAME='fenitunn_fenit';
+HOST='174.138.184.18';
+USER='ponyvipn_panel';
+PASS='@@Atel123@@';
+DBNAME='ponyvipn_panel';
 
 install_require()
 {
